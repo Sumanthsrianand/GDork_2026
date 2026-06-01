@@ -1,0 +1,120 @@
+ intitle:"index of" "application.properties"
+ext:(doc | pdf | xls | txt |) (intext:confidential salary) inurl:confidential
+filetype:log inurl:paypal
+ext:xlsx inurl:database
+intitle:final.attendee.list | inurl:final.attendee.list
+inurl:https://trello.com AND intext:@gmail.com AND intext:password
+intitle:"index of" intext:"apikey.txt
+allintext:@gmail.com filetype:log
+site:ftp.*.*.* "ComputerName=" + "[Unattended] UnattendMode"
+inurl:"/php/info.php" "PHP Version"
+"The SQL command completed successfully." ext:txt | ext:log
+ext:yml | ext:txt | ext:env "Database Connection Information Database server ="
+intitle:"index of" intext:"web.xml"
+ext:php intitle:phpinfo "published by the PHP Group"
+"putty.log" ext:log | ext:cfg | ext:txt | ext:sql | ext:env
+ext:txt | ext:log | ext:cfg "Building configuration..."
+ext:sql | ext:txt intext:"-- phpMyAdmin SQL Dump --" + intext:"admin"
+"secret_key_base:" ext:exs | ext:txt | ext:env | ext:cfg
+intitle:"index of" "Clientaccesspolicy.xml"
+site:gov ext:sql | ext:dbf | ext:mdb
+intitle:"index of" intext:credentials
+Index of /_vti_pvt +"*.pwd"
+intitle:"index of" "/.idea"
+intitle:"index of" "service-Account-Credentials.json" | "creds.json"
+"-- Server version" "-- MySQL Administrator dump 1.4" ext:sql
+intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/"
+site:*gov.* intitle:index.of db
+"* Authentication Unique Keys and Salts" ext:txt | ext:log
+allintext:"Index Of" "cookies.txt"
+ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"
+"index of" "/home/000~ROOT~000/etc"
+intitle:"PowerMTA" inurl:logs
+allintext:"index of" "oauth-private.key"
+"UV9 Error (1.0)"
+intitle:"Environment Variables" inurl:/cgi-bin/
+intitle:"index of" "mysql.log" | "mysql.logs"
+"putty.log" ext:log | ext:cfg | ext:txt
+intitle:"index of" "config.db"
+intitle:"index of" "phpmyadmin.sql"
+Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin
+'AUTH_SALT' | 'SECURE_AUTH_SALT' | 'LOGGED_IN_SALT' | 'NONCE_SALT' ext:txt | ext:cfg | ext:env | ext:ini
+intitle:"index of" "composer.lock"
+"index of" "callback.php"
+site:ftp://ftp.*.* ext:sql
+intext:admin ext:sql inurl:admin
+ext:log intext:NetworkManager "systemd"
+"index of" "user.MYD"
+allintext:"API_SECRET*" ext:env | ext:yml
+"Reflector Dashboard" inurl:/db/index.php/
+intitle:"index of" jboss-service.xml
+intext:ISUR_MACHINE IIS -log
+allintext:username,password filetype:log
+intitle:"index of" exception.log
+intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html
+intitle:"report" ("Fortify" | "Web Inspect") filetype:pdf
+intitle:"Index of /" "joomla/database"
+intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:html
+intitle:"index of" ./bash_history
+"Index of" "accounts.sql"
+"-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa
+intitle:"index of" "bundle.pem"
+intitle:"index of" "*named.root.key"
+intitle:"index of" /etc/openvpn/
+Index of /__MACOSX/System
+intitle:"index of" "id_rsa.pub"
+intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx
+"Index of" "/access"
+index of /backend/prod/config
+intitle:"index of /" "*key.pem"
+"index of" "siri"
+intext:"index of /" "*.yaml"
+intitle:"index of" secrets.yml
+intitle:"index of" admin.tar
+index of .svn/text-base/index.php.svn-base
+intext:"index of /" "config.json"
+"index of sqlite"
+intitle:index.of.?.db
+"Index of" "customer.php"
+intitle:"index of /" "nginx.conf"
+index of "logs.zip"
+"root.log" ext:log
+intitle:"index of" "dev/config"
+index of "dbbackup"
+inurl:admin intitle:index of ext:sql | xls | xml | json | csv
+DORK : intext:"index of" "var/log/"
+"microsoft internet information services" ext:log
+"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+intitle:"index of" "wp-admin.zip"
+index of "backup.zip"
+intitle:"index of" "adminsubscribeack.txt"
+"index of" /ftp/logs
+inurl:.drone.yml intext:git config user.email
+intitle:"index of" "security.php"
+index.of:"pcap" -site:stackoverflow.com -site:github.com
+intitle:"index of" "var/log/"
+intitle:index of config.asp
+intitle:"index of" "aws-config.php"
+"index of" "sshd_config"
+"index of" /private/logs
+"index of" "user.sqlite"
+inurl:"ReportServer/Pages/ReportViewer.aspx"
+intitle:"index of" "auth.config"
+intitle:"index of" "auth_config.php"
+intitle:"index of" "log.bak"
+filetype:sql intext: "sql dump"
+intitle:"index of" "database/config"
+allinurl:index.php?db=information_schema
+intitle:"index of" ".config"
+ext:sql intext:"-- phpMyAdmin SQL Dump
+intitle:"index of" "properties.ini"
+intitle:"index of" "db.log"
+intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt
+intitle:"index of" "userdata.json"
+intitle:"index of " "users.json"
+intitle:"index of" "wpadmin-secure.htaccess"
+intitle:"index of" "privkey.pem"
+intitle:"index of" "dhparams.pem"
+intitle:"index of" "token.txt"
+intitle:"index of" "*root.pem"
+intitle:"index of" "refresh_token.txt" OR "access_token.txt" OR "jsapi_ticket.txt"
